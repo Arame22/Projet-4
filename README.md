@@ -1,4 +1,5 @@
  👉**Présentation du sujet “Prédiction des situations de danger**
+
 Client est une entreprise qui gère le réseau de distribution d’électricité public sur 95 % du
 territoire français.
 La problématique concerne la sécurité des techniciens. Le technicien travaille en extérieur et
@@ -10,6 +11,7 @@ différenciant pour s’assurer que dans n’importe quelle situation le technic
 L’objectif est de mettre en place une solution afin de prédire les instants où un technicien est en danger lors d’une intervention.
 
 😣**La problématique : Comment prédire le risque de danger d’un technicien ?**
+
 L’objectif est de créer un modèle auto-apprenant pour alerter le technicien s’il est en danger
 durant une intervention. Il s’agit donc de travailler sur des modèles d’apprentissage non
 supervisé permettant de détecter les périodes durant lesquelles un technicien était en
@@ -17,6 +19,7 @@ danger, c’est à dire d’alerter le technicien en cas de port non conforme de
 l’intervention.
 
 🧐**Présentations du jeux de données** 
+
 Pour ce projet, deux ateliers ont été mis en place le 12 et le 22 juillet dans le but de récolter
 des données pour répondre à la problématique. Ces ateliers ont permis à des techniciens
 d’effectuer des interventions factices.
